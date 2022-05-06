@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KinjalBhatt21
 - 👀 I’m interested in learning new things, technology everyday. 
 - I want to interact myself with technologies, people, organization to learn and grow more flexible
-- 🌱 I’m currently learning Data Analytics for business.
+- 🌱 I’m currently looking for the opportunities in Data Analyst and Data Visualization.
 - 📫 Email: bhattkinjal.96@gmail.com
 
 <!---
